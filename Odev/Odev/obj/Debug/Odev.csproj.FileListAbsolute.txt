@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\PC\source\repos\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\PC\source\repos\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\PC\source\repos\Odev\Odev\obj\Debug\Odev.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Odev\Odev\obj\Debug\Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\PC\source\repos\Odev\Odev\obj\Debug\Odev.pdb

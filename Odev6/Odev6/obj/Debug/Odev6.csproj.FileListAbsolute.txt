@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\Odev6\Odev6\bin\Debug\Odev6.exe.config
+C:\Users\PC\source\repos\Odev6\Odev6\bin\Debug\Odev6.exe
+C:\Users\PC\source\repos\Odev6\Odev6\bin\Debug\Odev6.pdb
+C:\Users\PC\source\repos\Odev6\Odev6\obj\Debug\Odev6.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Odev6\Odev6\obj\Debug\Odev6.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Odev6\Odev6\obj\Debug\Odev6.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Odev6\Odev6\obj\Debug\Odev6.exe
+C:\Users\PC\source\repos\Odev6\Odev6\obj\Debug\Odev6.pdb
